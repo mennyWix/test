@@ -1,9 +1,9 @@
 
-describe(aaabbcc)
+xdescribe(aaabbcc)
 
 dasdsad
 
-xdescribe(foo)
+describe(foo)
 
 xdescribe(bar)
 
