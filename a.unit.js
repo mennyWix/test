@@ -3,7 +3,7 @@ describe(aaabbcc)
 
 dasdsad
 
-describe(foo)
+xdescribe(foo)
 
 xdescribe(bar)
 
